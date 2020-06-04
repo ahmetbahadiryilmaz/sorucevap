@@ -1,0 +1,11 @@
+{
+  "define": {
+    "apiUrl":"http://api.ekullanici.com/quiz/webservis/",
+    "renkler":{
+        "maviKoyu":"#075f99",
+        "maviFlatKoyu":"#2980b9",
+        "maviFlatAcik":"#3498db"
+    }
+
+  }
+}
