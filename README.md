@@ -1,1 +1,1 @@
-yds sorucevap react native
+yds sorucevap uygulaması react native
